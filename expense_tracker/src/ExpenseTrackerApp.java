@@ -14,8 +14,7 @@ public class ExpenseTrackerApp {
     tableModel.addColumn("Category");
     tableModel.addColumn("Date");
     
-
-    
+    // Create the view component
     ExpenseTrackerView view = new ExpenseTrackerView(tableModel);
 
     // Initialize view
