@@ -1,0 +1,84 @@
+commit 4e2b46e86652972c7805d580761bacac06da7595
+Author: Sai Soorya Rao Veeravalli <sveeravalli@Sais-MacBook-Air.local>
+Date:   Tue Mar 4 23:24:16 2025 -0500
+
+    Updating Readme file
+
+commit 90bf453f5decb2e7ea34a450fc9c0b46a72d4253
+Author: Sai Soorya Rao Veeravalli <sveeravalli@Sais-MacBook-Air.local>
+Date:   Tue Mar 4 23:21:52 2025 -0500
+
+    Updating jdoc after adding input validations
+
+commit 48e716e06e625ca65f7dc6e48ee505f5df6f3d76
+Author: Sai Soorya Rao Veeravalli <sveeravalli@Sais-MacBook-Air.local>
+Date:   Tue Mar 4 23:19:36 2025 -0500
+
+    amount and category
+
+commit 671198fd7c524e986075439b6a3f0e81cf861564
+Author: Sai Soorya Rao Veeravalli <sveeravalli@Sais-MacBook-Air.local>
+Date:   Tue Mar 4 23:12:23 2025 -0500
+
+    Adding API documentation to the jdoc folder
+
+commit 573ebb01a37a1db2e22047b2af551f390b8df9cf
+Author: Sai Soorya Rao Veeravalli <sveeravalli@Sais-MacBook-Air.local>
+Date:   Tue Mar 4 23:09:46 2025 -0500
+
+    Adding the screenshot file for class outline view
+
+commit 8a0f52cd74971ec5034846f46acc1b1c905f1005
+Author: Sai Soorya Rao Veeravalli <sveeravalli@Sais-MacBook-Air.local>
+Date:   Tue Mar 4 23:07:21 2025 -0500
+
+    Updating class files with comments for understandability
+
+commit 609238f5b8fb31cbf00089d698570586e780f27d
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Sep 26 17:04:00 2023 -0400
+
+    Gitignore update
+
+commit 4aba3f306ce156c0a3995c72fae604e5c4dd4839
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Thu Sep 21 16:16:51 2023 -0400
+
+    Readme Update
+
+commit e6b5eef3e2cf2bd38bd2482b633c8f670c56b3b9
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Sep 20 21:34:40 2023 -0400
+
+    Readme Update
+
+commit 8c41e8002d1ab37af47d259a2dd7f02033c69d72
+Merge: d3a5c14 34bd5aa
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Sep 20 21:32:44 2023 -0400
+
+    Merge branch 'main' of https://github.com/CS520-Fall2023/hw1_baseline
+
+commit d3a5c14b35628fc5ad47068443af4e5960043c39
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Sep 20 21:31:49 2023 -0400
+
+    Readme Update
+
+commit 34bd5aa0313f8c07c903f01e68ae0489f89e3d87
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Mon Sep 18 10:44:46 2023 -0400
+
+    Readme Update
+
+commit 72141cc496980da67e34cc8676331c48e912ec41
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Mon Sep 18 02:14:52 2023 -0400
+
+    HW1 file updates
+
+commit ed592ee28b697f1c2464703f0b53618bb653c017
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Mon Sep 18 02:13:24 2023 -0400
+
+    Initial commit
