@@ -17,6 +17,15 @@ After building the project (i.e., running ant), run: ```java -cp bin ExpenseTrac
 ## How to clean up (from Terminal):
 Run ```ant clean``` to clean the project (i.e., delete all generated files).
 
+## **Supported Features**
+- **Add Transactions**: Users can input an amount and category for each transaction.
+- **Input Validation**:
+    - Amount must be between **1 and 999**.
+    - Category must be one of: `"food"`, `"travel"`, `"bills"`, `"entertainment"`, `"other"`.
+    - Displays error messages for invalid input.
+- **Error Handling**: Ensures only valid transactions are stored.
+- **Graphical User Interface (GUI)**: Built using Java Swing.
+
 ## Code Modification
 
 Create a file named ```InputValidation.java```  to validate the ```amount``` and ```category``` field of this app. Some hints are as follows:
