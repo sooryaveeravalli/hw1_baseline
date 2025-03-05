@@ -27,6 +27,17 @@ public class ExpenseTrackerApp {
       double amount = view.getAmountField(); 
       String category = view.getCategoryField();
 
+      // Validate transaction data
+      if (!InputValidation.validateAmount(amount)) {
+        view.showErrorMessage("Amount should be greater than 0 and less than 1000.");
+        return;
+      }
+
+      if (!InputValidation.validateCategory(category)) {
+        view.showErrorMessage("Category should be a valid string input from the following list: \"food\", \"travel\", \"bills\", \"entertainment\", \"other\".");
+        return;   
+      }
+
       // Create transaction object
       Transaction t = new Transaction(amount, category);
 
